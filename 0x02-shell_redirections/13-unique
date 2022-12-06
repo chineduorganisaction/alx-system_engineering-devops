@@ -1,2 +1,2 @@
 #!/bin/bash
-cal list | uniq
+uniq
