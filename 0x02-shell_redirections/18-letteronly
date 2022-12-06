@@ -1,1 +1,2 @@
-#!/bin/bash\ncat /etc/ssh/sshd_config | grep [[:alpha:]]
+#!/bin/bash
+cat /etc/ssh/sshd_config | grep [[:alpha:]]
